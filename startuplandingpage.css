@@ -1,0 +1,37 @@
+body,
+
+	html { 
+  background: url(https://wallpaperaccess.com/full/279547.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+}
+h1{
+font-size: 8rem;
+color: white;
+text-align: center;
+
+}
+hr{
+	color: white;
+	text-align: center;
+}
+
+img{
+	background-size: cover;
+}
+.text1{
+padding-top: 200px;
+/*margin-top: 500px;*/
+	text-align: center;
+color: white;
+}
+button hover{
+background-color:red;
+
+}
+btn btn-primary hover{
+background-color: red;
+}
